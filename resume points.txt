@@ -1,0 +1,14 @@
+Experience in automating Azure Resource deployment using terraform.
+Created build and release pipelines to deploy application code(Data factory, Data bricks, SQL, Logic Apps).
+Created and managed permissions for various Azure resources & assigned AAD to the folders present in Azure Data Lake Storage via PowerShell.
+Created private connections to establish secure connections between Azure Resources.
+Established secure connections between Data bricks and storage accounts by creating mount points.
+Created linked service connection to various sources via Data factory.
+Designed and implemented SAS & Key Vault expiry management.
+Integrated New Relic with Azure to monitor the resources.
+Implemented AAD & SP overview dashboard.
+Migrated Azure resources from one location to another using backup strategy.
+Integrated SonarQube with Azure DevOps to maintain code quality.
+Built well structured branching strategy with branch policies and branch security.
+Automated required triggers to be enabled in ADF production environment.
+has context menu
